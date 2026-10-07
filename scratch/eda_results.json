@@ -1,0 +1,366 @@
+{
+  "tahap1": {
+    "num_rows": 21783,
+    "num_cols": 6,
+    "col_names": [
+      "review_id",
+      "ulasan",
+      "rating",
+      "jumlah_like",
+      "versi_aplikasi",
+      "tanggal"
+    ],
+    "mem_usage_mb": 7.89,
+    "period_str": "2026-03-02 s.d. 2026-10-06",
+    "head_5": [
+      {
+        "review_id": "03a36af0-6e34-4001-ae68-b9206c589bfc",
+        "ulasan": "aplikasi jelekkkkkkk, daftar pakai no. A yg Terima kode otp no. z,,, entah nomornya siapa yg Terima kode otp",
+        "rating": 1,
+        "jumlah_like": 0,
+        "versi_aplikasi": "4.18.0",
+        "tanggal": "2026-10-06 13:00:22",
+        "tanggal_dt": "2026-10-06 13:00:22"
+      },
+      {
+        "review_id": "7f51b0af-917f-4ed9-8de7-67244ec3ad01",
+        "ulasan": "sering eror ngga niat kah bikin aplikasinya???",
+        "rating": 3,
+        "jumlah_like": 0,
+        "versi_aplikasi": "4.18.0",
+        "tanggal": "2026-10-06 12:52:43",
+        "tanggal_dt": "2026-10-06 12:52:43"
+      },
+      {
+        "review_id": "7913b599-8463-400e-ac37-ad6ae4c8313a",
+        "ulasan": "ok",
+        "rating": 5,
+        "jumlah_like": 0,
+        "versi_aplikasi": "4.18.0",
+        "tanggal": "2026-10-06 12:47:11",
+        "tanggal_dt": "2026-10-06 12:47:11"
+      },
+      {
+        "review_id": "e4cfc570-9ad2-412c-b019-af119bd8532f",
+        "ulasan": "server suka nggak jelas",
+        "rating": 3,
+        "jumlah_like": 0,
+        "versi_aplikasi": NaN,
+        "tanggal": "2026-10-06 12:37:48",
+        "tanggal_dt": "2026-10-06 12:37:48"
+      },
+      {
+        "review_id": "d1d5471c-6bd1-4496-a3a3-b683b23af869",
+        "ulasan": "sumpah bpjs bitokraisnya gila. saya mau ubah kemandiri duruh bayar tunggakan karena sya gak bis abayar kalau belum pindah ke mandiri... udah ada rehab udah bisa di bayar... pembayaran nya di proses 3 hari kan gila ini sitem nya.. tlp cs bukany nya nyelesaikan Maslah malhan bikin emosi.... buat apa tu aplikasi pakai uang pajka kalau ujing2 nya di suruh ke kantor juga kan gila.",
+        "rating": 1,
+        "jumlah_like": 0,
+        "versi_aplikasi": NaN,
+        "tanggal": "2026-10-06 12:29:00",
+        "tanggal_dt": "2026-10-06 12:29:00"
+      }
+    ],
+    "tail_5": [
+      {
+        "review_id": "d4cbe68b-221d-45de-a1eb-9168bbfc1856",
+        "ulasan": "EH KENAPA LOE HAPUS DATA RIWAYAT MEDIS GUA DI APLIKASI... PAKAI SEGAL TIDAK ADA RUJUKAN DAN SURAT CONTROL",
+        "rating": 1,
+        "jumlah_like": 0,
+        "versi_aplikasi": "4.15.0",
+        "tanggal": "2026-03-02 07:23:37",
+        "tanggal_dt": "2026-03-02 07:23:37"
+      },
+      {
+        "review_id": "913c2536-9e71-4b66-a8ec-2354b421cfdd",
+        "ulasan": "ini Aplikasi sebenarnya buat apa sih...!! aplikasi setiap kali update selalu keluar sendiri.. bukan mempermudah malah sulit gak masuk\"!!! masukin no terdapat, padahal terdapat dan blsan SMS nya pun lama.. ber jam jam nungguin tidak nongol no. verifikasi menghabiskan waktu... ke puskesmas nya pun sama\"? suka daftar lagi minta di antri lagi... kan Aneh ..!!! klo sekiranya susah/gak guna ngapain aja ini aplikasi di buat dan anehnya bikin pusing tidak sesuai dengan kebutuhan mempermudh malah sulit",
+        "rating": 1,
+        "jumlah_like": 0,
+        "versi_aplikasi": "4.6.0",
+        "tanggal": "2026-03-02 06:46:04",
+        "tanggal_dt": "2026-03-02 06:46:04"
+      },
+      {
+        "review_id": "47e85c33-fcaf-424c-a3b9-13ab0cbf52ec",
+        "ulasan": "kenapa setiap lupa password pake pulsa utk ngirim otp? terus pas mau cek pesan malah kembali ke awal jd nunggu dan kepake lgi pulsanya",
+        "rating": 1,
+        "jumlah_like": 0,
+        "versi_aplikasi": "4.15.0",
+        "tanggal": "2026-03-02 06:20:07",
+        "tanggal_dt": "2026-03-02 06:20:07"
+      },
+      {
+        "review_id": "3e8ea280-598b-48b5-8dc1-f71be281aa4d",
+        "ulasan": "sebener ngga mau kasih bintang 3 karena sebelum²nya apk nya bagus dan membantu,tapi pas aku buka lagi ternyata harus login,tapi setelah aku akj login bacaan kata sandi salah padahal kata sandi nya tuh udah aku inget dan aku save biar ngga lupa",
+        "rating": 3,
+        "jumlah_like": 0,
+        "versi_aplikasi": "4.15.0",
+        "tanggal": "2026-03-02 06:06:32",
+        "tanggal_dt": "2026-03-02 06:06:32"
+      },
+      {
+        "review_id": "abe930da-d0cb-4ad6-9047-6b2f48c217f3",
+        "ulasan": "sangat membantu untuk pelayanan ny",
+        "rating": 5,
+        "jumlah_like": 0,
+        "versi_aplikasi": "4.15.0",
+        "tanggal": "2026-03-02 05:34:40",
+        "tanggal_dt": "2026-03-02 05:34:40"
+      }
+    ]
+  },
+  "tahap2": [
+    {
+      "Kolom": "review_id",
+      "Tipe": "str",
+      "Missing": 0,
+      "Missing %": 0.0,
+      "Unique": 21783
+    },
+    {
+      "Kolom": "ulasan",
+      "Tipe": "str",
+      "Missing": 0,
+      "Missing %": 0.0,
+      "Unique": 21783
+    },
+    {
+      "Kolom": "rating",
+      "Tipe": "int64",
+      "Missing": 0,
+      "Missing %": 0.0,
+      "Unique": 5
+    },
+    {
+      "Kolom": "jumlah_like",
+      "Tipe": "int64",
+      "Missing": 0,
+      "Missing %": 0.0,
+      "Unique": 45
+    },
+    {
+      "Kolom": "versi_aplikasi",
+      "Tipe": "str",
+      "Missing": 5091,
+      "Missing %": 23.37,
+      "Unique": 40
+    },
+    {
+      "Kolom": "tanggal",
+      "Tipe": "str",
+      "Missing": 0,
+      "Missing %": 0.0,
+      "Unique": 21750
+    }
+  ],
+  "tahap3": {
+    "review_id": {
+      "count": 0,
+      "pct": 0.0
+    },
+    "ulasan": {
+      "count": 0,
+      "pct": 0.0
+    },
+    "ulasan_rating": {
+      "count": 0,
+      "pct": 0.0
+    },
+    "full_row": {
+      "count": 0,
+      "pct": 0.0
+    }
+  },
+  "tahap4": [
+    {
+      "Rating": 1,
+      "Jumlah": 10239,
+      "Persentase": 47.0
+    },
+    {
+      "Rating": 2,
+      "Jumlah": 1239,
+      "Persentase": 5.69
+    },
+    {
+      "Rating": 3,
+      "Jumlah": 941,
+      "Persentase": 4.32
+    },
+    {
+      "Rating": 4,
+      "Jumlah": 869,
+      "Persentase": 3.99
+    },
+    {
+      "Rating": 5,
+      "Jumlah": 8495,
+      "Persentase": 39.0
+    }
+  ],
+  "tahap5": [
+    {
+      "Skema": "A - 3 kelas",
+      "Negatif": 11478,
+      "Negatif_%": 52.69,
+      "Netral": 941,
+      "Netral_%": 4.32,
+      "Positif": 9364,
+      "Positif_%": 42.99
+    },
+    {
+      "Skema": "B - 2 kelas",
+      "Negatif": 11478,
+      "Negatif_%": 52.69,
+      "Netral": 0,
+      "Netral_%": 0.0,
+      "Positif": 10305,
+      "Positif_%": 47.31
+    }
+  ],
+  "tahap6": {
+    "empty_cnt": 0,
+    "whitespace_cnt": 0,
+    "one_word_cnt": 687,
+    "very_short_words_cnt": 2334,
+    "very_long_words_cnt": 613,
+    "char_len": {
+      "min": 1,
+      "max": 500,
+      "mean": 85.54,
+      "median": 56.0
+    },
+    "word_len": {
+      "min": 1,
+      "max": 112,
+      "mean": 13.64,
+      "median": 9.0
+    }
+  },
+  "tahap7": {
+    "min_date": "2026-03-02",
+    "max_date": "2026-10-06",
+    "monthly": {
+      "2026-03": 1988,
+      "2026-04": 3189,
+      "2026-05": 3562,
+      "2026-06": 2919,
+      "2026-07": 2898,
+      "2026-08": 3137,
+      "2026-09": 3503,
+      "2026-10": 587
+    }
+  },
+  "tahap8": {
+    "num_versions": 39,
+    "null_versions": 5091,
+    "top20": [
+      {
+        "versi": "4.18.0",
+        "jumlah": 7013,
+        "persentase": 32.19
+      },
+      {
+        "versi": "Tidak Diketahui (NaN)",
+        "jumlah": 5091,
+        "persentase": 23.37
+      },
+      {
+        "versi": "4.16.1",
+        "jumlah": 4438,
+        "persentase": 20.37
+      },
+      {
+        "versi": "4.17.0",
+        "jumlah": 2155,
+        "persentase": 9.89
+      },
+      {
+        "versi": "4.16.0",
+        "jumlah": 1405,
+        "persentase": 6.45
+      },
+      {
+        "versi": "4.15.0",
+        "jumlah": 966,
+        "persentase": 4.43
+      },
+      {
+        "versi": "4.14.0",
+        "jumlah": 322,
+        "persentase": 1.48
+      },
+      {
+        "versi": "4.13.1",
+        "jumlah": 147,
+        "persentase": 0.67
+      },
+      {
+        "versi": "4.12.0",
+        "jumlah": 66,
+        "persentase": 0.3
+      },
+      {
+        "versi": "4.9.0",
+        "jumlah": 38,
+        "persentase": 0.17
+      },
+      {
+        "versi": "4.7.0",
+        "jumlah": 23,
+        "persentase": 0.11
+      },
+      {
+        "versi": "4.11.2",
+        "jumlah": 19,
+        "persentase": 0.09
+      },
+      {
+        "versi": "4.8.1",
+        "jumlah": 14,
+        "persentase": 0.06
+      },
+      {
+        "versi": "4.3.0",
+        "jumlah": 14,
+        "persentase": 0.06
+      },
+      {
+        "versi": "4.5.1",
+        "jumlah": 8,
+        "persentase": 0.04
+      },
+      {
+        "versi": "4.0.1",
+        "jumlah": 8,
+        "persentase": 0.04
+      },
+      {
+        "versi": "4.4.0",
+        "jumlah": 5,
+        "persentase": 0.02
+      },
+      {
+        "versi": "4.6.0",
+        "jumlah": 5,
+        "persentase": 0.02
+      },
+      {
+        "versi": "4.13.0",
+        "jumlah": 5,
+        "persentase": 0.02
+      },
+      {
+        "versi": "3.7.1",
+        "jumlah": 4,
+        "persentase": 0.02
+      }
+    ]
+  },
+  "tahap9": {
+    "min": 0,
+    "max": 90,
+    "mean": 0.3,
+    "median": 0.0,
+    "like_zero_cnt": 19911,
+    "like_zero_pct": 91.41
+  }
+}
